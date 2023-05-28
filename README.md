@@ -2,13 +2,15 @@
 
 This is a music player application built with JavaScript.
 
+![screenshot](./img/screenshot.png)
+
 ## Installation
 
 To use this app, simply download or clone the repository to your local machine and open the index.html file in your web browser.
 
 Alternatively, you can also access the live demo of the app [here](https://rm-vanillamusic-player.netlify.app/)
 
-## how to use
+## How to use
 
 1. Click the "Play" button to start playing the first track.
 2. Use the "Pause" and "Skip" buttons to control playback.
